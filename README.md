@@ -89,8 +89,7 @@ This project is a personalized movie recommender system that leverages machine l
 - **movie_dict.pkl** # Pickle file containing the movie dataset
 - **similarity.pkl** # Pickle file with the precomputed similarity matrix
 - **requirements.txt** # Python dependencies for the project
-- **README.md** # A description of what the project is, its purpose, and its key features.
-- **.gitignore** # Git ignore file for excluding unnecessary files
+- **README.md** # A description of what the project is, its purpose, and its key features
 
 ## Movie Recommender Screenshort
 
